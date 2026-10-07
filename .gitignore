@@ -1,0 +1,4 @@
+archive.zip
+.vscode/
+__pycache__/
+*.pyc
